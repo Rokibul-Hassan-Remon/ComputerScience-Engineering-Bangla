@@ -9,6 +9,7 @@
 
 ## Bangla
 [DhSirClassRoom](https://www.youtube.com/watch?v=rddVXDsvkQk&list=PLxMU9o_xFAfsZkQPpIzRmryOsncltlRh6)
+[Rayhan Rashed](https://www.youtube.com/watch?v=sUWC-ue-DRY&list=PLPFDgD6kUaiRCGxuHu3GWhFHCKFTnnZV0) **(Algorithm Analysis & Design, good)**
 Creators Garage Club : [](https://www.youtube.com/watch?v=zU1l_3pni4Q&list=PLEdpzVR8XTjYoAB3bY4oZ8TFpGifdvZQN&index=2)
 CPI Poly Technique Dhaka : [](https://www.youtube.com/watch?v=xckNCvd9_Yg&list=PLYo5MkklwWkAejwvqwfXYP3QCUSHQdqiJ)
 Dhaka College: [](https://www.youtube.com/watch?v=DvXjcFAQo-U&list=PLnlBjmudMSY2-iC-jeSgufNJkFDfzOtNY)

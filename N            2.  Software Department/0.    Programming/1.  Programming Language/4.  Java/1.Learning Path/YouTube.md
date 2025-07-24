@@ -3,7 +3,7 @@
 3. [SEU CSE](https://www.youtube.com/@SEUCSESTUDENT/videos)
 4. [java Guide](https://www.youtube.com/watch?v=QRYVnKaZ9fw&list=PLXPbT_PYOiRiRh1B6y92BDXV9AE7Ibgks)
 5. [Emran Code Box](https://www.youtube.com/watch?v=vpae-Lkg2Jc&list=PLoZwCi-p1eGBhIgJUKRpJ3ZTqTK0vaptu)
-6. 
+6. [Coders Arcades](https://www.youtube.com/@CodersArcade/playlists)
 
 
 

@@ -18,8 +18,9 @@
 18. [Tanvir Ahmed Tarik Sumon ](https://www.youtube.com/watch?v=5-iTysFwQ20&list=PL-gPMfK-bku6odDVtODr4EwFcC9dXNy1Z)
 19. [Dr Omkar Singh](https://www.youtube.com/watch?v=ytzyt28l52I&list=PLkdSraxyaHxDFydgATJic2V016LqFWaMk)
 20. [Md. Hasanuzzaman(Rahid)](https://www.youtube.com/@md.hasanuzzaman2277/playlists)
-21. 
+21. [Scholars University](https://www.youtube.com/watch?v=bh8IkLzFSb0&list=PLdJiYK7Nvb7o6Qy-J9dt9yspr2tfo1PCJ)
 22. 
+23. 
 
 ## Embedded C Programming
 1. [EST Circuit](https://www.youtube.com/watch?v=fpO-c2Wg254)

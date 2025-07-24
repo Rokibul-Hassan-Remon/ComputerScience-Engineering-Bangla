@@ -6,6 +6,8 @@
 6. [MD. Tahmidul Iqbal](https://www.youtube.com/@tahmidraven/playlists)
 7. [VLSI Excillence - ](https://www.youtube.com/@vlsiexcellence/playlists)
 8. [Explorer](https://www.youtube.com/@explorer9577/playlists)
+9. [Scholars Univesity](https://www.youtube.com/@UniversityofScholars/search?query=VLSI)
+10. 
 
 
 ## Adv. VLSI
