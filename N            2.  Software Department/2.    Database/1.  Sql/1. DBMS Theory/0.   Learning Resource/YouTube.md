@@ -4,6 +4,7 @@
 [Youtube](https://www.youtube.com/watch?v=TU61PsnVNlo&list=PLqqgU0PuY-K1E2j1A8dC34y0dVaCr0pXw)
 
 ## YouTube some good channel
+[Nadeem Ahmed](https://www.youtube.com/@nadeemahmed4793/videos)
 [Immanuel Truemar](https://www.youtube.com/watch?v=i7iugcmrBJ8&list=PLXPbT_PYOiRipfX8zrv_9EpnSOpK9P__j)(Good. If u can please complete it)
 [Hasnat Riaz](https://www.youtube.com/@hasnatriaz4177/videos)
 [Content on Demand ](https://www.youtube.com/watch?v=snZWnWUOEZ4&list=PLW7fU_8SZVrt7ztQmsRbcpid-7vSq6Yu5&index=2)
