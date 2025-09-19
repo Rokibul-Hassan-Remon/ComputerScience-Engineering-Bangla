@@ -22,7 +22,6 @@ Given the `root` of a binary tree, return _the preorder traversal of its node
 
 **Follow up:** Recursive solution is trivial, could you do it iteratively?
 এখানে তারা বলতে চাইছে —
-
 - **Recursive solution**  — এটা অনেক সহজে লেখা যায়।
     
 - কিন্তু তারা challenge দিচ্ছে — _তুমি কি একই কাজ recursion ছাড়া, **iterative way** তে করতে পারো?_
