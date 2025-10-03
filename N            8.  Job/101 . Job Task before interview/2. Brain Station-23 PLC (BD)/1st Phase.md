@@ -10,7 +10,7 @@
     - What is the difference between **abstraction** and **encapsulation**?
     - Which keyword is used to achieve polymorphism?
     
-    ### **OOP Practice**
+### **OOP Practice**
 
 1. GeeksforGeeks OOP Practice Questions:  
     https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-c-sharp/
