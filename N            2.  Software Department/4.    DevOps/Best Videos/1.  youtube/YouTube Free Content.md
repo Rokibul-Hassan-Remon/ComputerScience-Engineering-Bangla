@@ -4,4 +4,5 @@
 4. **[Code ABC](https://www.youtube.com/@CODEABC/playlists)**
 5. [Train with Shubham ](https://www.youtube.com/@TrainWithShubham/playlists)
 6. [DevOps Bangladesh](https://www.youtube.com/@devopsbangladesh933/videos)
+7. [DevOps Steps - DevOps & Clouds Tutorial](https://www.youtube.com/@devopssteps/playlists)
 
