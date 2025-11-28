@@ -53,6 +53,7 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
 2. [WsCube Tech Part-2](https://www.youtube.com/watch?v=--t2md5zF_0)
 3. [Shreayans AI School](https://www.youtube.com/@SheryiansAI/videos)
 4. [Krish Naik](https://www.youtube.com/@krishnaik06/search?query=Machine%20Learning)
-5. 
+5. [Sandeep B](https://www.youtube.com/@sandeepb6582/playlists)
+6. 
 
 

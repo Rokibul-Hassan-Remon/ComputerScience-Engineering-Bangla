@@ -82,7 +82,8 @@ Recursion & pointer :[Bit & Qubit](https://www.youtube.com/@bitandqubit/videos)
 5. [McaupyGrinds - Compititive Programming](https://www.youtube.com/watch?v=GMgnriqynXo&list=PLhj9nmfWA-AIj40KGrGRhYfneajzVW0yt)
 6. [Coder Army](https://www.youtube.com/@CoderArmy9/playlists)
 7. [CSE Guru](https://www.youtube.com/watch?v=2dlVxVkH4mQ&list=PLLykrwdi1zxF22UVdcQnbiMfSOBTOiGVq&index=45)
-8. 
+8. [Sandeep B](https://www.youtube.com/@sandeepb6582/playlists)
+9. 
 
 
 ## English
