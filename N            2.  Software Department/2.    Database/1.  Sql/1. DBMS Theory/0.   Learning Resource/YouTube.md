@@ -17,6 +17,7 @@
 [PPSC Smasher](https://www.youtube.com/watch?v=dnkMpKhVBjA)
 [MAD I ](https://www.youtube.com/watch?v=QqpN6JDjixQ )
 [CMax](https://www.youtube.com/watch?v=h3-g_sUyqqk&list=PLdMnODUFlKOK1Y2EHE6FUMGNsG6PQAmfQ&index=5)
+[Insight Full Journey](https://www.youtube.com/@The_Insightful_Journey/playlists)
 
 Rajshahi University Course : [](https://www.youtube.com/@shamimahmad4182/playlists)
 BoU 5th Batch:[](https://www.youtube.com/watch?v=xX1KcCUk3XM&list=PL66OrBsAMhKiaYWE1CPjxwLTXU5h2x5R5&index=4)

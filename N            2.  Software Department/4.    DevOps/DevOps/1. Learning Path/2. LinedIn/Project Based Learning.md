@@ -1,3 +1,7 @@
+
+[GitHub](https://github.com/AvinashTale99?tab=repositories) 
+[DevOps Practice](https://github.com/AvinashTale99/devops-exercises)
+
 Getting into DevOps can be 100% free and 100% project-based  
 ✅17 Project to add to your resume:  
   

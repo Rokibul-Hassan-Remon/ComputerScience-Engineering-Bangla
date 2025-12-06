@@ -3,6 +3,7 @@ European IT Solution : [](https://www.youtube.com/playlist?list=PLCVF4bdGz2k-Y15
 # Topic Wise : 
 Complete Login System : [](https://www.youtube.com/watch?v=fn8srtQrdJw&list=PLNO-iPE5zs68A3YGdAFWLJarldBifwb9P)
 [YouTube](https://www.youtube.com/watch?v=l1Iv3ywUh9A&list=PLAVkjMeZQ2J10W7kI5AD_ymLUwO4sLZEq&index=1)
+[GP Academy](https://www.grameenphone.academy/courses/module-1-introduction-to-wordpress)
 
 
 ## Bangla videos
@@ -12,8 +13,7 @@ Complete Login System : [](https://www.youtube.com/watch?v=fn8srtQrdJw&list=PLNO
 [BITM Channel](https://www.youtube.com/watch?v=tIGqdxqopho&list=PLU5Krtm2RILkyNNNhlPOEENFXD7QJYKA-)
 [Rasel Ahmed](https://www.youtube.com/@raselahmed7/playlists)
 [CodeWorm](https://www.youtube.com/@codewormofficial/playlists)
-
-
+[Muntasir Hasnat](https://www.youtube.com/@Muntasir_Hasnat/playlists)
 
 
 ## Hindi videos
