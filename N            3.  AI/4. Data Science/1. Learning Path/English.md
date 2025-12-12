@@ -1,41 +1,41 @@
-Data Science Methodology  
-				[https://lnkd.in/e6aCWKMS](https://lnkd.in/e6aCWKMS)  
+But these 12 will teach you more skills than a 4 year degree.  
   
-Foundations of Data Science  
-				[https://lnkd.in/ebz8ppPp](https://lnkd.in/ebz8ppPp)  
+1. Data Engineering Roadmap  
+[https://lnkd.in/dCyr4aph](https://lnkd.in/dCyr4aph)  
   
-A Crash Course in Data Science  
-				[https://lnkd.in/euHijTN6](https://lnkd.in/euHijTN6)  
+2. Interview Preparation  
+[https://lnkd.in/gJWSVKNM](https://lnkd.in/gJWSVKNM)  
   
-Applied Data Science with Python  
-				[https://lnkd.in/eWHV4yn5](https://lnkd.in/eWHV4yn5)  
+3. SQL  
+[https://lnkd.in/gJXw4XtK](https://lnkd.in/gJXw4XtK)  
   
-IBM Data Science Professional Certificate  
-				[https://lnkd.in/eY_s9Wnk](https://lnkd.in/eY_s9Wnk)  
+4. Python  
+[https://lnkd.in/gDrwu4Bx](https://lnkd.in/gDrwu4Bx)  
   
-Advanced Data Science with IBM Specialization  
-				[https://lnkd.in/eZuDdR2p](https://lnkd.in/eZuDdR2p)  
+5. Pyspark  
+[https://lnkd.in/g7sWrSEU](https://lnkd.in/g7sWrSEU)  
   
-Google Data Analytics  
-				[https://lnkd.in/egYjUAAc](https://lnkd.in/egYjUAAc)  
+6. Airflow  
+[https://lnkd.in/guebuHJ7](https://lnkd.in/guebuHJ7)  
   
-Google Advanced Data Analytics  
-				[https://lnkd.in/en9_kx2b](https://lnkd.in/en9_kx2b)  
+7. Kafka -  
+[https://lnkd.in/gVZUT52s3](https://lnkd.in/gVZUT52s3)  
   
-IBM Data Engineering  
-				[https://lnkd.in/epyPCA5b](https://lnkd.in/epyPCA5b)  
+8. Data Modeling  
+[https://lnkd.in/gynBBQEh](https://lnkd.in/gynBBQEh)  
   
-Python Project for Data Science  
-				[https://lnkd.in/eTXWHHYu](https://lnkd.in/eTXWHHYu)  
+9. Azure Cloud  
+[https://lnkd.in/g7wP2kaj](https://lnkd.in/g7wP2kaj)  
   
-Data Science Challenge  
-				[https://lnkd.in/ekZGUrHe](https://lnkd.in/ekZGUrHe)  
+10. GCP Cloud  
+[https://lnkd.in/gNwpp2RT](https://lnkd.in/gNwpp2RT)  
   
-Data Science Math Skills  
-				[https://lnkd.in/epriSZxu](https://lnkd.in/epriSZxu)  
+11. AWS Cloud  
+[https://lnkd.in/gXDpBbNw](https://lnkd.in/gXDpBbNw)  
   
-Learn SQL Basics for Data Science Specialization  
-				[https://lnkd.in/e26ndsjn](https://lnkd.in/e26ndsjn)  
+12. Data Engineering Projects  
+[https://lnkd.in/gZh_t-eK](https://lnkd.in/gZh_t-eK)
+  ----
   
 Databases and SQL for Data Science with Python  
 				[https://lnkd.in/e5vWVXfr](https://lnkd.in/e5vWVXfr)

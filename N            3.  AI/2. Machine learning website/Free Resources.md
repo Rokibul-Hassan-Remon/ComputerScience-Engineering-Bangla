@@ -56,6 +56,7 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
 3. [Shreayans AI School](https://www.youtube.com/@SheryiansAI/videos)
 4. [Krish Naik](https://www.youtube.com/@krishnaik06/search?query=Machine%20Learning)
 5. [Sandeep B](https://www.youtube.com/@sandeepb6582/playlists)
-6. 
+6. [Vikash Das](https://www.youtube.com/@ItsVikashDas/playlists)
+7. 
 
 
