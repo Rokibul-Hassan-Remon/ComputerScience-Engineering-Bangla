@@ -4,5 +4,5 @@
 4. [Sabbir via]
 5. [Asif.Abir](https://www.youtube.com/watch?v=x5o6hDuP9Io&list=PLiMT9Z_PoSJ35FnQT2fzjzpQtuq9F1_c1)
 6. [Bg Web Agency](https://www.youtube.com/@bgwebagency/streams)
-7. 
+7. [Ranjna Codes](https://www.youtube.com/@ranjnaCodes/playlists)
 8. 

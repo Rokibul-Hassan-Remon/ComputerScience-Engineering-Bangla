@@ -73,11 +73,11 @@ Real-World Projects & Practice
   
 **Platforms to Practice:**  
   
-[HackerRank](https://www.linkedin.com/company/hackerrank/): [hackerrank.com](http://hackerrank.com/)  
-[HackerEarth](https://www.linkedin.com/company/hackerearth/): [hackerearth.com](http://hackerearth.com/)  
-[StrataScratch](https://www.linkedin.com/company/stratascratch/): [stratascratch.com](http://stratascratch.com/)  
-LeetCode: [leetcode.com](http://leetcode.com/)  
-DataLemur: [datalemur.com](http://datalemur.com/)  
+[HackerRank](http://hackerrank.com/)  
+[HackerEarth](http://hackerearth.com/)  
+[StrataScratch](http://stratascratch.com/)  
+**LeetCode**: [leetcode.com](http://leetcode.com/)  
+**DataLemur**: [datalemur.com](http://datalemur.com/)  
   
 𝗦𝗤𝗟 𝗙𝗿𝗲𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀🔥  
 1️⃣SQL Handwritten Notes: [https://lnkd.in/dTZ2Fv2i](https://lnkd.in/dTZ2Fv2i)  

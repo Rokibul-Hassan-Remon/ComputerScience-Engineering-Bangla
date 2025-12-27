@@ -29,10 +29,11 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
  [Saiful Bari Iftu](https://www.youtube.com/@saifulbariiftu/playlists)
  [bASE limited](https://www.youtube.com/@baselimited443/playlists)
  [Daniel Codes](https://www.youtube.com/@danialcodes/playlists)(BracU)
+ [Shakib Hassan Shimanto](https://www.youtube.com/@datanerdStealth/playlists)
  
  ## Advanced topic
- 1. [Md Liakawt Ali](https://www.youtube.com/watch?v=zsuoQPPLjug&list=PL-gPMfK-bku5AJwL3LLwz7Xcq6_DOTe-T&index=12)
- 2. 
+ 6. [Md Liakawt Ali](https://www.youtube.com/watch?v=zsuoQPPLjug&list=PL-gPMfK-bku5AJwL3LLwz7Xcq6_DOTe-T&index=12)
+ 7. 
  
 ## Mixed Hindi + English
 1. [Vizura](https://www.youtube.com/@vizuara/playlists)
@@ -57,6 +58,6 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
 4. [Krish Naik](https://www.youtube.com/@krishnaik06/search?query=Machine%20Learning)
 5. [Sandeep B](https://www.youtube.com/@sandeepb6582/playlists)
 6. [Vikash Das](https://www.youtube.com/@ItsVikashDas/playlists)
-7. 
+7. [iCode Guru](https://www.youtube.com/@iCodeGuru0/playlists)
 
 
