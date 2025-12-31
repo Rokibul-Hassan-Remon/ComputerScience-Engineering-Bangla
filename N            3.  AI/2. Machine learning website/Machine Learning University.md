@@ -17,3 +17,9 @@ Shohoz Vashay Python : [](https://python.maateen.me/)
 Andrew Ng Coursera course : [](https://www.coursera.org/learn/machine-learning)
 Path : [LinkedIn](https://www.linkedin.com/posts/fbali0239_%E0%A6%85%E0%A6%A8%E0%A6%95%E0%A6%87-%E0%A6%86%E0%A6%AE%E0%A6%B0-%E0%A6%9C%E0%A6%97%E0%A6%AF-%E0%A6%AF-%E0%A6%AD%E0%A6%87-llm-%E0%A6%B6%E0%A6%96%E0%A6%A4-%E0%A6%97%E0%A6%B2-activity-7401608158248681472-645l/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFJCXfcBIcZmlLG5hIrKQjJ7iQQ2Sm6gFI4&utm_campaign=whatsapp)
 [International Resources](https://www.linkedin.com/posts/shirin-khosravi-jam_70-of-ml-engineers-fail-system-design-interviews-activity-7401956691707170816-a7AD/?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAFJCXfcBIcZmlLG5hIrKQjJ7iQQ2Sm6gFI4&utm_campaign=whatsapp)
+[aadi AI-ML From Sratch](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch?tab=readme-ov-file)
+[ML For Beginners - Microsoft](https://github.com/microsoft/ML-For-Beginners/tree/main/1-Introduction)
+
+
+
+
