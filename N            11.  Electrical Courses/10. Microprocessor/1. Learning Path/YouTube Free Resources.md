@@ -19,7 +19,7 @@
 19. [Dr Omkar Singh](https://www.youtube.com/watch?v=ytzyt28l52I&list=PLkdSraxyaHxDFydgATJic2V016LqFWaMk)
 20. [Md. Hasanuzzaman(Rahid)](https://www.youtube.com/@md.hasanuzzaman2277/playlists)
 21. [Scholars University](https://www.youtube.com/watch?v=bh8IkLzFSb0&list=PLdJiYK7Nvb7o6Qy-J9dt9yspr2tfo1PCJ)
-22. 
+22. [Hamim Nasim](https://www.youtube.com/@hamimnasim9543/playlists)
 23. 
 
 ## Embedded C Programming
