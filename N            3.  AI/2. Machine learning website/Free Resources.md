@@ -6,7 +6,7 @@
 
 ## Learning From Website:
 [জাকির হোসাইন](https://jakir.me/category/machine-learning/)
-
+[CSE Mastery By Arman](https://www.youtube.com/@CSEMasteryArman/playlists)
 
 # YouTube: 
 ## Bangla : 

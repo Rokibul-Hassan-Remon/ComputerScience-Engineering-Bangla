@@ -20,7 +20,7 @@
 20. [Md. Hasanuzzaman(Rahid)](https://www.youtube.com/@md.hasanuzzaman2277/playlists)
 21. [Scholars University](https://www.youtube.com/watch?v=bh8IkLzFSb0&list=PLdJiYK7Nvb7o6Qy-J9dt9yspr2tfo1PCJ)
 22. [Hamim Nasim](https://www.youtube.com/@hamimnasim9543/playlists)
-23. 
+23. [Md. Hasan](https://www.youtube.com/@mdhasansust/playlists)
 
 ## Embedded C Programming
 1. [EST Circuit](https://www.youtube.com/watch?v=fpO-c2Wg254)
