@@ -21,6 +21,9 @@
 21. [Scholars University](https://www.youtube.com/watch?v=bh8IkLzFSb0&list=PLdJiYK7Nvb7o6Qy-J9dt9yspr2tfo1PCJ)
 22. [Hamim Nasim](https://www.youtube.com/@hamimnasim9543/playlists)
 23. [Md. Hasan](https://www.youtube.com/@mdhasansust/playlists)
+24. [Md. Shakir ](https://www.youtube.com/watch?v=_7co5hurI0E&list=PL8I0kbow2q8HgpBEruOmyFA63ejc-QHaq&index=1)
+25. [Asif Hassan Chowdhury](https://www.youtube.com/@AsifHasanChowdhury-k5m/playlists)
+26. 
 
 ## Embedded C Programming
 1. [EST Circuit](https://www.youtube.com/watch?v=fpO-c2Wg254)

@@ -12,7 +12,7 @@
 ## Bangla : 
 [](https://www.youtube.com/watch?v=bHp4JCfd5sI&list=PLjdvEeuRWuAIAkyX0sX8fRT4PKKHP--L4)(watch before starting)
 [Tamim Shahriyar Shubin](https://www.youtube.com/watch?v=_kd1q-FTFv0&list=PLym69wpbTIIGPSHdojUzb3szqZ-e4oMI3)
-
+[Tabassum](https://www.youtube.com/watch?v=KUSMDTBQzmU&list=PL5b6Wl2Equ1a5QeBtgfFwO4-eVLe5Dq7H)
 Salearning [](https://www.youtube.com/@salearningschool-shopforso8963)
 Arnisha Akter   : [](https://www.youtube.com/@mohosinatarnisha2931/playlists)
 Ariful Abir :[](https://www.youtube.com/@arifulabir9363/playlists)
@@ -59,5 +59,6 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
 5. [Sandeep B](https://www.youtube.com/@sandeepb6582/playlists)
 6. [Vikash Das](https://www.youtube.com/@ItsVikashDas/playlists)
 7. [iCode Guru](https://www.youtube.com/@iCodeGuru0/playlists)
+8. [Ayush Sing]([https://www.youtube.com/watch?v=ruA_EYARCNg](https://www.youtube.com/@AyushSinghSh/videos))
 
 

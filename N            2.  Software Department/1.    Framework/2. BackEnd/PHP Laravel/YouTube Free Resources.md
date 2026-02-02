@@ -14,6 +14,7 @@ Complete Login System : [](https://www.youtube.com/watch?v=fn8srtQrdJw&list=PLNO
 [Rasel Ahmed](https://www.youtube.com/@raselahmed7/playlists)
 [CodeWorm](https://www.youtube.com/@codewormofficial/playlists)
 [Muntasir Hasnat](https://www.youtube.com/@Muntasir_Hasnat/playlists)
+[Md. Abdul Majid](https://www.youtube.com/@abdulmajidcse/playlists)
 
 
 ## Hindi videos
@@ -21,3 +22,5 @@ Complete Login System : [](https://www.youtube.com/watch?v=fn8srtQrdJw&list=PLNO
 2. 
 
 
+## English:
+[Programming with Gio](https://www.youtube.com/@ProgramWithGio/courses)

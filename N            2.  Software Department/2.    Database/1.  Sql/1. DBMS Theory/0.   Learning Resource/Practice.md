@@ -1,0 +1,2 @@
+1. [50 days SQL Practice](https://www.linkedin.com/posts/bigdatabysumit_50-days-of-sql-full-course-day-1-https-share-7420802746573926400-DHuc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACjOOVEBkNZNlKFnUilkISGQsS_Bco3u3ms)
+2. 

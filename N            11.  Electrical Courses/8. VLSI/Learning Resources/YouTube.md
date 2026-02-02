@@ -8,7 +8,8 @@
 8. [VLSI Excillence - ](https://www.youtube.com/@vlsiexcellence/playlists)
 9. [Explorer](https://www.youtube.com/@explorer9577/playlists)
 10. [Scholars Univesity](https://www.youtube.com/@UniversityofScholars/search?query=VLSI)
-11. 
+11. [Yeasin Arafat Pritom](https://www.youtube.com/@yeasinarafatpritom9340/playlists)
+12. 
 
 
 ## Adv. VLSI

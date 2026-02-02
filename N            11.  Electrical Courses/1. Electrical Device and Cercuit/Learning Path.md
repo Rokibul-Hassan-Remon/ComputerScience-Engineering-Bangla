@@ -4,4 +4,6 @@
 4. [MIST Classes](https://www.youtube.com/@mistclasses25/videos)
 5. [MIST Classes](https://www.youtube.com/@mistclasses25/playlists)
 6. [Maak 101](https://www.youtube.com/@maak1015)
-7. 
+7. [Purbayan Das ](https://www.youtube.com/@purbayandas/playlists)
+8. [Sabiha Hassan](https://www.youtube.com/@sabihahasan3955)
+9. 
