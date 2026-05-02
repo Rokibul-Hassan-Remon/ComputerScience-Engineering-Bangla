@@ -7,4 +7,6 @@ hate kolome scikit learn : [](https://github.com/hamidhosen42/My-learning-Book-S
 1. [ Alexender Amini](https://www.youtube.com/watch?v=alfdI7S6wCY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 2. [Ayush Singh](https://www.youtube.com/@AyushSinghSh/videos)
 3. [Advanced Machine Learning & Deep Learning](https://www.youtube.com/@datascienceandmachinelearning/videos)
-4. 
+4. [Data Dissection - YouTube](https://www.youtube.com/@DataDissection)
+5. [Alfredo Canziani (冷在) - YouTube](https://www.youtube.com/@alfcnz/courses)
+6. 

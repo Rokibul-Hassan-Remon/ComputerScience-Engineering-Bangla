@@ -3,4 +3,5 @@
 3. [MasterMind Studios](https://www.youtube.com/watch?v=TAlzohoUaTg&list=PL5zroviRZc8lnFiqCSm4wXheXEimhYPn1)
 4. [Corey Shefar](https://www.youtube.com/@coreyms/courses)
 5. [iCode Guru](https://www.youtube.com/@iCodeGuru0/playlists)
-6. 
+6. [Neural Gem](https://www.youtube.com/@NeuralGem/playlists)
+7. 

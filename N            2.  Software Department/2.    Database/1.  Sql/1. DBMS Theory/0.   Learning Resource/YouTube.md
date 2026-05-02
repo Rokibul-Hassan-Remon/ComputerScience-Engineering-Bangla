@@ -40,7 +40,7 @@ BRAC University   [ kamruzzaman konok](https://www.youtube.com/@kamruzzamankonok
 
  [Saiki Yuji](https://www.youtube.com/@sakaiyuji2664/playlists)
 [Ahsan Habib Niloy](https://www.youtube.com/@AhashanHabibNiloy/playlists)
-
+[Nahidul Arafat - YouTube](https://www.youtube.com/@nahidul_arafat/playlists)
 
 
 FBA13 :[](https://www.youtube.com/watch?v=yZ8wXHo43To&list=PLCh3_NUqW7_Iyu54X7PPPU9iWsgr7iIPn)

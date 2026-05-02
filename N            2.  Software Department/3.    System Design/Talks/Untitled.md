@@ -2,4 +2,5 @@
 2. [Mohammad Asif Ul Alam - LinkedIn](https://www.linkedin.com/posts/webasifislam_%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A6%B0-%E0%A6%A1%E0%A6%9C%E0%A6%9F%E0%A6%B2-%E0%A6%AF%E0%A6%97-%E0%A6%AF%E0%A6%95%E0%A6%A8-%E0%A6%85%E0%A6%AF%E0%A6%AA-%E0%A6%AF%E0%A6%A6-%E0%A6%A6%E0%A6%B0%E0%A6%A4-activity-7400220152417472512-V0i-?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACjOOVEBkNZNlKFnUilkISGQsS_Bco3u3ms)
 3. [Mohammad Asif Ul Alam - LinkedIn](https://www.linkedin.com/posts/webasifislam_%E0%A6%8F%E0%A6%95%E0%A6%9F-%E0%A6%85%E0%A6%AF%E0%A6%AA-%E0%A6%AF%E0%A6%96%E0%A6%A8-%E0%A6%9B%E0%A6%9F-%E0%A6%A5%E0%A6%95-%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%9C-%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%A5-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A6%93-activity-7400584165873713153-qlXp?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACjOOVEBkNZNlKFnUilkISGQsS_Bco3u3ms)
 4. [Engineering at Zero cost GitHub repo](https://medium.com/@biswajitpanday/engineering-a-zero-cost-data-driven-portfolio-scaling-with-a-serverless-admin-portal-and-ai-1bc8081b0eb8)
-5. 
+5. [How Google doc and Uber work- YouTube](https://www.youtube.com/watch?v=EVNVN6h7vs0)
+6. 

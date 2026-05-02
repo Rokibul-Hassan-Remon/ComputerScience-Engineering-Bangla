@@ -30,6 +30,7 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
  [bASE limited](https://www.youtube.com/@baselimited443/playlists)
  [Daniel Codes](https://www.youtube.com/@danialcodes/playlists)(BracU)
  [Shakib Hassan Shimanto](https://www.youtube.com/@datanerdStealth/playlists)
+ [Nahidul Arafat - YouTube](https://www.youtube.com/@nahidul_arafat/playlists)
  
  ## Advanced topic
  6. [Md Liakawt Ali](https://www.youtube.com/watch?v=zsuoQPPLjug&list=PL-gPMfK-bku5AJwL3LLwz7Xcq6_DOTe-T&index=12)
@@ -60,5 +61,7 @@ Sarfraz Raza[](https://www.youtube.com/@SarfrazRazaOfficial/playlists)
 6. [Vikash Das](https://www.youtube.com/@ItsVikashDas/playlists)
 7. [iCode Guru](https://www.youtube.com/@iCodeGuru0/playlists)
 8. [Ayush Sing]([https://www.youtube.com/watch?v=ruA_EYARCNg](https://www.youtube.com/@AyushSinghSh/videos))
+9. [Data Dissection - YouTube](https://www.youtube.com/@DataDissection)
+10. [Nidhi Chouhan - YouTube](https://www.youtube.com/@codenidhi/playlists)(not bad not good)
 
 

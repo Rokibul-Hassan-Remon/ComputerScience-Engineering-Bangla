@@ -5,6 +5,8 @@
 [GUB CSE-Archive](https://www.youtube.com/@GUBCSE-Archive/playlists)
  [LHK Explains](https://www.youtube.com/@lhkexplains/playlists)
  [Tabassum](https://www.youtube.com/@ExtNowshinTabassum/playlists)
+ [CSE Academy](https://www.youtube.com/watch?v=uWoCYJTAEE4&list=PLaZmRBXuyCFUNng3H8gRnO7qFYDNapVpv&index=7)
+ 
  
  
  

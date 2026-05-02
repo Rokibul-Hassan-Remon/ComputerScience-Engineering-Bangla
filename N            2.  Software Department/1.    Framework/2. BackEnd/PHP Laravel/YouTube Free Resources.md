@@ -15,6 +15,7 @@ Complete Login System : [](https://www.youtube.com/watch?v=fn8srtQrdJw&list=PLNO
 [CodeWorm](https://www.youtube.com/@codewormofficial/playlists)
 [Muntasir Hasnat](https://www.youtube.com/@Muntasir_Hasnat/playlists)
 [Md. Abdul Majid](https://www.youtube.com/@abdulmajidcse/playlists)
+[learn with ABS - YouTube](https://www.youtube.com/@learnwithabsshakeel/videos)
 
 
 ## Hindi videos
